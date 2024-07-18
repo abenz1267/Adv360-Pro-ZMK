@@ -55,7 +55,7 @@
         &trans &trans &trans &trans &trans &trans  &none                                                       &none &none &kp LBRC &kp RBRC &kp LBKT  &kp RBKT  &kp LS(MINUS)
         &kp GRAVE &kp EXCL &kp AT &kp HASH &kp DOLLAR &kp PERCENT  &none        &trans &trans             &trans &trans    &none &kp CARET &kp AMPERSAND &kp ASTERISK &kp LPAR  &kp RPAR  &kp TILDE
         &trans &kp LS(LEFT) &none &kp LC(LA(T)) &kp LS(RIGHT) &trans          &trans  &trans         &kp LEFT &kp DOWN &kp UP &kp RIGHT  &trans  &kp LS(EQUAL)
-        &trans &trans &trans &trans &trans               &none &trans &trans             &kp LG(LC(LS(N))) &kp LG(ENTER) &kp LA(ENTER)   &mt LG(LS(F1)) LC(F1) &mt LG(LS(F2)) LC(F2) &mt LG(LS(F3)) LC(F3)  &mt LG(LS(F4)) LC(F4)  &kp EQUAL
+        &trans &trans &trans &trans &trans               &none &trans &trans             &kp LG(LC(LS(N))) &kp LG(ENTER) &kp F12   &mt LG(LS(F1)) LC(F1) &mt LG(LS(F2)) LC(F2) &mt LG(LS(F3)) LC(F3)  &mt LG(LS(F4)) LC(F4)  &kp EQUAL
       >;
     };
 mod {
